@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655088216064",
+    "project_id": "cognitrade-aadc6",
+    "storage_bucket": "cognitrade-aadc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655088216064:android:96e57c796db5679b17d0e5",
+        "android_client_info": {
+          "package_name": "com.example.crypto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPnR-ENTKH1y0mQ5P4Ow9X3DmVISg3r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
