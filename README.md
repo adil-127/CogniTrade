@@ -1,6 +1,6 @@
 
 # CogniTrade
-This is a realtime trading bot simulator app for the cryptocurrency market. The simulator utilizes the RSI (Relative Strength Index) indicator and news sentiment analysis to generate trading signals.
+This is a realtime trading bot simulator app for the crypto. The simulator utilizes the RSI (Relative Strength Index) indicator and news sentiment analysis to generate trading signals.
 
 
 ## Api
